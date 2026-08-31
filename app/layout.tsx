@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'EduEvents | College Event Management',
+  description: 'A focused workspace for managing college events, registrations, and student participation.',
   generator: 'v0.app',
   icons: {
     icon: [
